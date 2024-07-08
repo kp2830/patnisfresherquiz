@@ -1,0 +1,147 @@
+[
+  {
+    "question": "Why did you join this college?",
+    "choice1": "Ye hi mil raha tha ",
+    "choice2": "Hum chutiye hai",
+    "choice3": "Coding culture",
+    "choice4": "Placement stats",
+    "answer": 2
+  },
+  {
+    "question": "Which is the best fest in college?",
+    "choice1": "Vivacity",
+    "choice2": "Plinth",
+    "choice3": "Desportivos",
+    "choice4": "Both A and C",
+    "answer": 4
+  },
+  {
+    "question": "What not to do when a senior asks for intro?",
+    "choice1": "Neeche Dekhna ",
+    "choice2": "Hindi ya English puchna",
+    "choice3": "V banana",
+    "choice4": "Kabhi intro nahi diya",
+    "answer": 1
+  },
+  {
+    "question": "What does fundo do?",
+    "choice1": "organizes fun events in college ",
+    "choice2": "dance club",
+    "choice3": "music club",
+    "choice4": "Kuch nahi",
+    "answer": 1
+  },
+  {
+    "question": " Which shop has the best owner in canteen shops?",
+    "choice1": "Baba ki shop",
+    "choice2": "Vinayak",
+    "choice3": "Amul",
+    "choice4": "Sab log rude hai",
+    "answer": 1
+  },
+  {
+    "question": "Which boss do you have crush on?",
+    "choice1": "C-cell mentor ",
+    "choice2": "Club cordinator",
+    "choice3": "Koi nahi",
+    "choice4": "Boss pe crush rakhne ki aukat nahi hai",
+    "answer": 4
+  },
+
+  {
+    "question": "Intro ke format me kya nahi hota?",
+    "choice1": "tumhara naam ",
+    "choice2": "papa ka naam",
+    "choice3": "college address",
+    "choice4": "tumhari percentile",
+    "answer": 2
+  },
+  {
+    "question": "Who is the director of this college?",
+    "choice1": "Dr.Rahul Banerjee",
+    "choice2": "Sandeep Saini",
+    "choice3": "Poonam Gera",
+    "choice4": "Prahalad chacha",
+    "answer": 1
+  },
+  {
+    "question": "College me sabse zyada kaam kya aata hai?",
+    "choice1": "Coding ",
+    "choice2": "Teachers",
+    "choice3": "Seniors",
+    "choice4": "Koi ghanta kaam nahi aata",
+    "answer": 3
+  },
+  {
+    "question": "How many cultural clubs are there in college?",
+    "choice1": "11",
+    "choice2": "10",
+    "choice3": "12",
+    "choice4": "useless information",
+    "answer": 1
+  },
+  {
+    "question": " What does the club Aveg do?",
+    "choice1": "Theatre",
+    "choice2": "Nukkad Natak",
+    "choice3": "Dance",
+    "choice4": "photography",
+    "answer": 2
+  },
+  {
+    "question": "Koi senior dot banane ko bole toh kaha banana chahiye?",
+    "choice1": "Jitna upar ho sake ",
+    "choice2": "Jitna neeche ho sake",
+    "choice3": "waist height pe",
+    "choice4": "Jaha senior bole",
+    "answer": 4
+  },
+  {
+    "question": "Intro ki first line kya hai?",
+    "choice1": "My name is... ",
+    "choice2": "My fathers name is...",
+    "choice3": "I was born in...",
+    "choice4": "Intro hi nahi aata",
+    "answer": 3
+  },
+  {
+    "question": "Achhe seniors kon hote hai?",
+    "choice1": "Jinki cgpa achhi ho ",
+    "choice2": "Jo aage jake kaam aaye",
+    "choice3": "Jo thadi le jaye",
+    "choice4": "Sare seniors hi achhe hote hai",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following places you can go to as a fresher?",
+    "choice1": "Thadi ",
+    "choice2": "Ghc ke andar",
+    "choice3": "Great wall",
+    "choice4": "Basketball court",
+    "answer": 4
+  },
+  {
+    "question": "what does the club imagination do?",
+    "choice1": "singing ",
+    "choice2": "dancing",
+    "choice3": "Photography",
+    "choice4": "Nukkad natak",
+    "answer": 4
+  },
+  {
+    "question": "what does the club cypher do?",
+    "choice1": "copputer programming ",
+    "choice2": "web devlopment",
+    "choice3": "Photography",
+    "choice4": "Cyber security and blockchain",
+    "answer": 4
+  },
+  {
+    "question": "If you are a fresher girl whom would you date?",
+    "choice1": "Ayush Modi ",
+    "choice2": "Vidit sharma",
+    "choice3": "Dhruv Goyal",
+    "choice4": "Kushagra Garg",
+    "answer": 2
+  }
+]
